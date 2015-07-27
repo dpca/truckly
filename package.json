@@ -1,0 +1,18 @@
+{
+  "name": "truckly",
+  "version": "0.0.1",
+  "description": "Posts food truck tweets to slack on their day of the week",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "lodash": "^3.10.0",
+    "request": "^2.60.0",
+    "twit": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Cahoon",
+  "license": "MIT"
+}
