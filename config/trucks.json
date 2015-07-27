@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Teri-Yummy",
+    "days": ["Monday"],
+    "handle": "@Teriyummy",
+    "id": 2372861059
+  },
+  {
+    "name": "Pennypacker's",
+    "days": ["Tuesday"],
+    "handle": "@Pennypackers",
+    "id": 208695725
+  },
+  {
+    "name": "Posto",
+    "days": ["Tuesday"],
+    "handle": "@PostoMobile",
+    "id": 2744952448
+  },
+  {
+    "name": "Sheherazad",
+    "days": ["Wednesday"],
+    "handle": "@Sheherazadinc",
+    "id": 2174693146
+  },
+  {
+    "name": "Sweet Tomatoes Pizza",
+    "days": ["Wednesday"],
+    "handle": "@SwtTomatoTruck",
+    "id": 218955313
+  },
+  {
+    "name": "Cod Squad",
+    "days": ["Thursday"],
+    "handle": "@codsquadtruck",
+    "id": 550214662
+  },
+  {
+    "name": "Frozen Hoagies",
+    "days": ["Thursday"],
+    "handle": "@FrozenHoagies",
+    "id": 331304080
+  },
+  {
+    "name": "Zo on the Go",
+    "days": ["Friday"],
+    "handle": "@Zo_Boston",
+    "id": 456101469
+  },
+  {
+    "name": "Yumm Bai",
+    "days": ["Friday"],
+    "handle": "@yummbaitruck",
+    "id": 2585794992
+  }
+]
