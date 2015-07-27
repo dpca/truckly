@@ -24,10 +24,6 @@ function shouldSendTweet(truck, tweet) {
   return _.includes(truck.days, dayOfWeek(time)) && time.getHours() < 13;
 }
 
-function constructTweetHeader(truck, tweet) {
-  return truck.name + " just tweeted! " + "<https://twitter.com/" + tweet.user.screen_name + "/@" + tweet.user.screen_name + ">";
-}
-
 function constructSlackAttachment(tweet) {
   return {
     fallback: "@" + tweet.user.screen_name + ": " + tweet.text,
