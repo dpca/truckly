@@ -21,7 +21,7 @@ function dayOfWeek(date) {
 
 function shouldSendTweet(truck, tweet) {
   var time = new Date(tweet.created_at);
-  return _.includes(truck.days, dayOfWeek(time)) && time.getHours() < 13;
+  return _.includes(truck.days, dayOfWeek(time)) && time.getHours() < 14;
 }
 
 function constructSlackAttachment(tweet) {

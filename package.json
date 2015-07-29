@@ -2,7 +2,7 @@
   "name": "truckly",
   "version": "0.0.1",
   "description": "Posts food truck tweets to slack on their day of the week",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "dotenv": "^1.2.0",
     "lodash": "^3.10.0",
